@@ -19,5 +19,29 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/软件/web常用的第三方包/sqljdbc4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://D:/软件/web常用的第三方包/apache-tomcat-8.0.44" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://D:/软件/web常用的第三方包/apache-tomcat-8.0.44/webapps/docs/appdev/sample/src" />
+          <root url="file://D:/软件/web常用的第三方包/apache-tomcat-8.0.44/webapps/examples/WEB-INF/classes" />
+          <root url="file://D:/软件/web常用的第三方包/apache-tomcat-8.0.44/webapps/examples/WEB-INF/jsp/applet" />
+          <root url="file://D:/软件/web常用的第三方包/apache-tomcat-8.0.44/webapps/examples/jsp/plugin/applet" />
+          <root url="file://D:/软件/web常用的第三方包/apache-tomcat-8.0.44/work/Catalina/localhost/ROOT" />
+        </SOURCES>
+      </library>
+    </orderEntry>
   </component>
 </module>
